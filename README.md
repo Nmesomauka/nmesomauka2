@@ -4,7 +4,8 @@
 
 ## About Me 🚀
 
-I'm a passionate Software developer with experience in backend. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+“I am a learner of the ALX Backend web dev and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search. This is why I started with software engineering, what I am passionate about and what inspires me:Turning complex business requirements into elegant, working systems. Building systems that can handle thousands or even millions of users. It’s inspiring to know that your logic and design can scale globally.
+Fixing bugs and optimizing performance can feel like solving puzzles . My aim is to As a backend web developer, my aim is to continuously improve my skills while contributing to impactful projects that make technology accessible and efficient.” and that’s why I would like to work on [insert the types of projects you would like to work on].
 
 - 🌱 Currently learning: backend
 - 🔭 Working on: **[current projects or side-projects]**
